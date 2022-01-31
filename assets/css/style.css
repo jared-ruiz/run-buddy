@@ -57,10 +57,21 @@ footer h2 {
 
 footer div {
     float: right;
-    line-height: 1.54;
+    line-height: 1.5;
     text-align: right;
 }
 
 footer a {
     color: #024e76;
+}
+
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+section {
+    padding: 60px;
 }
