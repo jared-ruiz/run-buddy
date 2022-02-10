@@ -286,9 +286,9 @@ section {
     flex-wrap: wrap;
 }
 
-/* .contact-info iframe {
-    
-} */
+.contact-info iframe {
+    height: 400px
+}
 
 .contact-info div {
     color: white;
